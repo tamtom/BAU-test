@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "864261102932",
+    "firebase_url": "https://hiasat-75261.firebaseio.com",
+    "project_id": "hiasat-75261",
+    "storage_bucket": "hiasat-75261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864261102932:android:a532bf93f4021fd6",
+        "android_client_info": {
+          "package_name": "com.itdeveapps.bau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864261102932-2u6uuhhluh5ongggkbuadbfic4pcre3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDsdlyvOz2O4afzCRlJXxxGYMWze39OYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
